@@ -61,10 +61,5 @@ To create a centralized Power BI dashboard hosted on SharePoint that allows real
 - Git & GitHub
 - SharePoint (for dashboard hosting)
 
----
 
-## 📝 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Futurero_Intern_Dashboard.git
